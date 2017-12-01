@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "id",
+    "repo": "noguchi0123/api-doc",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
